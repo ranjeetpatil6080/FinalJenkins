@@ -24,7 +24,7 @@ WebDriver driver=new ChromeDriver();
 		//click on create new org +
 		driver.findElement(By.cssSelector("img[alt='Create Organization...']")).click();
 		//search tf enter name
-		driver.findElement(By.name("accountname")).sendKeys("Mahindra5245");
+		driver.findElement(By.name("accountname")).sendKeys("Jio1");
 		
 		//To click on radio button
 		driver.findElement(By.xpath("(//input[@type='radio'])[2]")).click();

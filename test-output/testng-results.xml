@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-23T11:58:33 IST" name="Default suite" finished-at="2024-03-23T11:58:41 IST" duration-ms="8067">
+  <suite started-at="2024-03-23T12:13:01 IST" name="Default suite" finished-at="2024-03-23T12:13:27 IST" duration-ms="25945">
     <groups>
     </groups>
-    <test started-at="2024-03-23T11:58:33 IST" name="Default test" finished-at="2024-03-23T11:58:41 IST" duration-ms="8067">
-      <class name="basic1.LeadsTest">
-        <test-method signature="CreateLeads()[pri:0, instance:basic1.LeadsTest@47d90b9e]" started-at="2024-03-23T11:58:33 IST" name="CreateLeads" finished-at="2024-03-23T11:58:41 IST" duration-ms="8033" status="PASS">
+    <test started-at="2024-03-23T12:13:01 IST" name="Default test" finished-at="2024-03-23T12:13:27 IST" duration-ms="25945">
+      <class name="basic1.OrganizationsTest">
+        <test-method signature="CreateOrganizations()[pri:0, instance:basic1.OrganizationsTest@47d90b9e]" started-at="2024-03-23T12:13:01 IST" name="CreateOrganizations" finished-at="2024-03-23T12:13:27 IST" duration-ms="25903" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateLeads -->
-      </class> <!-- basic1.LeadsTest -->
+        </test-method> <!-- CreateOrganizations -->
+      </class> <!-- basic1.OrganizationsTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
